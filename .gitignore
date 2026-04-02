@@ -1,0 +1,11 @@
+*.7z
+.claude
+*.zip
+
+# Logs
+*.log
+output/*.txt
+done/*.*
+input/*.*
+node_modules/
+dist/
